@@ -259,7 +259,7 @@ function App() {
               </ul>
 
               <a 
-                href="https://app.venuzfy.com/checkout/MXMBX3NAKZYX7C?product=150038"
+                href="https://app.astrocheckout.com/checkout/MXMBX3NAKZYX7C?product=150038"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-gray-600 to-gray-700 text-white py-4 rounded-2xl font-semibold text-lg hover:shadow-lg transition-all duration-300 transform hover:scale-105 text-center"
@@ -312,7 +312,7 @@ function App() {
               </ul>
 
               <a 
-                href="https://app.venuzfy.com/checkout/MXMBX3NAKZYX7C?product=150039"
+                href="https://app.astrocheckout.com/checkout/MXMBX3NAKZYX7C?product=150039"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-rose-500 to-pink-600 text-white py-4 rounded-2xl font-semibold text-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 text-center"
